@@ -1,0 +1,55 @@
+Curso de Python: Finance + Data Science
+
+3 pilares:
+- programación y computación
+- finanzas (promedios, varianza, esperanza, distribuciones)
+- data science (programar,experimentos)
+		- Inteligencia Artificial / Machine Learning
+			a) Regresiones / clasificaciones
+
+Reglas
+1. No acoso
+2. Respeto
+3. Congruencia
+4. Apagar camara & microfono mientras hablo, solo prender si duda
+5. Hacer todas las tareas si les es posible
+
+Jonatan
+________
+7 am - 11 pm lunes - viernes
+mañanas fines de semana
+
+SOFTWARE DE LA CLASE
+
+Matemáticas Aplicadas <3
+____________________
+
+1. Python 3 (¿Qué versión?) La más nueva!
+https://www.python.org/downloads/
+___
+opción 1: ANACONDA NAVIGATOR
+https://www.anaconda.com/products/distribution
+
+opción 2:
+a) Jupyter Notebook (Latex)
+https://jupyter.org/install
+
+--> seguramente les aparece la opción de 'agregar pip a terminal'.
+
+b)Spyder ======== Rstudio
+
+c)Visual Studio Code
+___
+1. Git Bash
+https://git-scm.com/downloads
+
+2. Github Desktop
+
+Tarea cero:
+1. Descargar todo el software antes mencionado
+2. Crear una cuenta en Github
+
+
+
+
+
